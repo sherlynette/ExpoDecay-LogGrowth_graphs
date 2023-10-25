@@ -22,7 +22,9 @@ grid()
 
 ## Logarithmic growth
 growth_rate <- 0.05  # Growth rate, adjust as needed
+
 initial_value <- 1  # Initial value, adjust as needed
+
 time <- seq(0, 10, by = 0.1)  # Time values from 0 to 10 (adjust as needed)
 
 ### Calculate the values for logarithmic growth
