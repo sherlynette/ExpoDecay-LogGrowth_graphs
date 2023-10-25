@@ -30,9 +30,4 @@ growth_values <- initial_value + growth_rate * log(time)
 plot(time, growth_values, type = "l", xlab = "Time", ylab = "Value",
      main = "Logarithmic Growth", col = "green")
 
-     <img width="233" alt="image" src="https://github.com/sherlynette/ExpoDecay-LogGrowth_graphs/assets/11760597/e924f7e8-66f9-41f2-8b5b-a012ab1e99a6">
-
-
-    
-
-
+<img width="365" alt="Screenshot 2023-10-25 at 11 30 26 AM" src="https://github.com/sherlynette/ExpoDecay-LogGrowth_graphs/assets/11760597/b5906abf-8d39-4152-8c44-b523868e37e4">
