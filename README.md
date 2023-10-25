@@ -2,7 +2,9 @@
 
 ## Exponential decay
 decay_rate <- 0.05  # Decay rate, adjust as needed
+
 initial_value <- 100  # Initial value, adjust as needed
+
 time <- seq(0, 100, by = 1)  # Time values from 0 to 100 (adjust as needed)
 
 ### Calculate the values for the exponential decay
